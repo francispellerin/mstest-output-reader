@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsTestOutputReader", "MsTestOutputReader\MsTestOutputReader.csproj", "{E7146C68-4CD3-4933-AC7A-8AB16B6FBBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsTestOutputReaderTests", "MsTestOutputReaderTests\MsTestOutputReaderTests.csproj", "{A901760E-DE68-45E5-A45F-BB72D7BE238C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7146C68-4CD3-4933-AC7A-8AB16B6FBBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7146C68-4CD3-4933-AC7A-8AB16B6FBBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7146C68-4CD3-4933-AC7A-8AB16B6FBBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7146C68-4CD3-4933-AC7A-8AB16B6FBBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A901760E-DE68-45E5-A45F-BB72D7BE238C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A901760E-DE68-45E5-A45F-BB72D7BE238C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A901760E-DE68-45E5-A45F-BB72D7BE238C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A901760E-DE68-45E5-A45F-BB72D7BE238C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE6C0A3-EECC-48D2-AC4A-A9B8EAFFB609}
+	EndGlobalSection
+EndGlobal
